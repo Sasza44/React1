@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(112, 109, 109);
+}
+@font-face {
+    font-family: Roboto;
+    src: url('Robotomedium.ttf');
+}
+h1{
+    font-family: Roboto;
+}
